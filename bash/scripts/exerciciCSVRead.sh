@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -z $1 ]; then
+if [ $# -ne 1 ]; then
 	echo -e "[+]Usage: $0 <file-to-read>"
 	exit 1
 fi
