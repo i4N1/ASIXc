@@ -1,0 +1,10 @@
+jdoe,students,john.doe@example.com
+asmith,teachers,alice.smith@example.com
+mjohnson,staff,mary.johnson@example.com
+rwilliams,docents,robert.williams@example.com
+lturner,students,lisa.turner@example.com
+tkim,teachers,tom.kim@example.com
+sjones,staff,susan.jones@example.com
+pgarcia,docents,pablo.garcia@example.com
+ewang,students,emily.wang@example.com
+jchen,teachers,jennifer.chen@example.com
