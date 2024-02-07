@@ -19,3 +19,33 @@
 [*]Usuari pgarcia que pertany a la UO docents i correu electrònic pablo.garcia@example.com
 [*]Usuari ewang que pertany a la UO students i correu electrònic emily.wang@example.com
 [*]Usuari jchen que pertany a la UO teachers i correu electrònic jennifer.chen@example.com
+[*]\tUsuari jdoe que pertany a la UO students i correu electrònic john.doe@example.com
+[*]\tUsuari asmith que pertany a la UO teachers i correu electrònic alice.smith@example.com
+[*]\tUsuari mjohnson que pertany a la UO staff i correu electrònic mary.johnson@example.com
+[*]\tUsuari rwilliams que pertany a la UO docents i correu electrònic robert.williams@example.com
+[*]\tUsuari lturner que pertany a la UO students i correu electrònic lisa.turner@example.com
+[*]\tUsuari tkim que pertany a la UO teachers i correu electrònic tom.kim@example.com
+[*]\tUsuari sjones que pertany a la UO staff i correu electrònic susan.jones@example.com
+[*]\tUsuari pgarcia que pertany a la UO docents i correu electrònic pablo.garcia@example.com
+[*]\tUsuari ewang que pertany a la UO students i correu electrònic emily.wang@example.com
+[*]\tUsuari jchen que pertany a la UO teachers i correu electrònic jennifer.chen@example.com
+[*]	Usuari jdoe que pertany a la UO students i correu electrònic john.doe@example.com
+[*]	Usuari asmith que pertany a la UO teachers i correu electrònic alice.smith@example.com
+[*]	Usuari mjohnson que pertany a la UO staff i correu electrònic mary.johnson@example.com
+[*]	Usuari rwilliams que pertany a la UO docents i correu electrònic robert.williams@example.com
+[*]	Usuari lturner que pertany a la UO students i correu electrònic lisa.turner@example.com
+[*]	Usuari tkim que pertany a la UO teachers i correu electrònic tom.kim@example.com
+[*]	Usuari sjones que pertany a la UO staff i correu electrònic susan.jones@example.com
+[*]	Usuari pgarcia que pertany a la UO docents i correu electrònic pablo.garcia@example.com
+[*]	Usuari ewang que pertany a la UO students i correu electrònic emily.wang@example.com
+[*]	Usuari jchen que pertany a la UO teachers i correu electrònic jennifer.chen@example.com
+[+]	Usuari jdoe que pertany a la UO students i correu electrònic john.doe@example.com
+[+]	Usuari asmith que pertany a la UO teachers i correu electrònic alice.smith@example.com
+[+]	Usuari mjohnson que pertany a la UO staff i correu electrònic mary.johnson@example.com
+[+]	Usuari rwilliams que pertany a la UO docents i correu electrònic robert.williams@example.com
+[+]	Usuari lturner que pertany a la UO students i correu electrònic lisa.turner@example.com
+[+]	Usuari tkim que pertany a la UO teachers i correu electrònic tom.kim@example.com
+[+]	Usuari sjones que pertany a la UO staff i correu electrònic susan.jones@example.com
+[+]	Usuari pgarcia que pertany a la UO docents i correu electrònic pablo.garcia@example.com
+[+]	Usuari ewang que pertany a la UO students i correu electrònic emily.wang@example.com
+[+]	Usuari jchen que pertany a la UO teachers i correu electrònic jennifer.chen@example.com

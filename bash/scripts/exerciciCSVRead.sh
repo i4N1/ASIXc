@@ -1,15 +1,15 @@
 #!/bin/bash
 
-if [ $# -ne 1 ]; then
-	echo -e "[+]Usage: $0 <file-to-read>"
+file="csv.txt"
+
+#Test if file exists
+if [ ! -e $file ]; then
+	echo "[-] File $file not found"
 	exit 1
 fi
-if [ ! -f "csv.txt"]; then
-	echo "[-]csv.txt not found"
-	exit 1
-fi
-csvfile=$1
-separator=$2
+echo -e "[*]\tReading $file...\n"
+
+#Splitting every line in file on every ','
 while IFS=',' read -r name ou email; do
-	echo "[*]Usuari $name que pertany a la UO $ou i correu electrònic $email" | tee -a usuaris.txt
-done < "$csvfile"
+	echo -e "[+]\tUsuari $name que pertany a la UO $ou i correu electrònic $email" | tee -a usuaris.txt
+done < "$file"
