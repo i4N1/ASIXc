@@ -1,0 +1,11 @@
+Username,Role,Email
+johndoe,docents,johndoe@example.com
+janedoe,teachers,janedoe@example.com
+alice.smith,students,alice.smith@example.com
+bob.jones,staff,bob.jones@example.com
+emily.wilson,faculty,emily.wilson@example.com
+michael.jackson,admin,michael.jackson@example.com
+sarah.connor,staff,sarah.connor@example.com
+david.johnson,teachers,david.johnson@example.com
+lisa.miller,students,lisa.miller@example.com
+kevin.adams,docents,kevin.adams@example.com
