@@ -7,7 +7,7 @@ $dest = $args[1]
 $date = Get-Date -Format "yyyyMMdd"
 $dest = Join-Path -Path $dest -ChildPath "backup_$(Split-Path -Leaf $orig)_$date.zip"
 
-if (Test-Path $dest -PathType Container){
+if (Test-Path $dest -PathType Leaf){
     Write-Host '$dest already exists.'
     exit 2
 }
